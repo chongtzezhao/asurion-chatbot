@@ -25,7 +25,7 @@ A modern React-based chatbot application powered by Meta's Llama 3.1 8B Instruct
 
 ```bash
 git clone <repository-url>
-cd asurion_chatbot
+cd asurion-chatbot
 ```
 
 ### 2. Install Dependencies
@@ -61,7 +61,7 @@ The application will open in your browser at [http://localhost:3000](http://loca
 ## Project Structure
 
 ```
-asurion_chatbot/
+asurion-chatbot/
 ├── public/
 │   ├── asurion.ico          # Favicon (add your own)
 │   └── index.html            # HTML template

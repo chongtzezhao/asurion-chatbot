@@ -19,7 +19,7 @@ interface ChatWindowProps {
   apiKey?: string;
 }
 
-const STORAGE_KEY = 'asurion_chatbot_history';
+const STORAGE_KEY = 'asurion-chatbot_history';
 
 const ChatWindow: React.FC<ChatWindowProps> = ({
   title = 'Chatbot',
